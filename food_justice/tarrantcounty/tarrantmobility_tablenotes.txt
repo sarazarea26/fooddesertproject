@@ -6,13 +6,13 @@ Key Table Information
 
 Table Title
 
-  Median Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)
+  Means of Transportation to Work by Selected Characteristics
   
 -------------------------------------------------------------------------------------------------------------
 
 Table ID
 
-  ACSST5Y2024.S1903
+  ACSST5Y2024.S0802
   
 -------------------------------------------------------------------------------------------------------------
 
@@ -102,6 +102,12 @@ Symbols
   
 -------------------------------------------------------------------------------------------------------------
 
+Data-Specific Notes
+
+  Foreign born excludes people born outside the United States to a parent who is a U.S. citizen.<br/><br/>Workers include members of the Armed Forces and civilians who were at work last week.<br/><br/>Occupation titles and their 4-digit codes are based on the 2018 Standard Occupational Classification.<br/><br/>Industry titles and their 4-digit codes are based on the North American Industry Classification System (NAICS). The Census industry codes for 2023 and later years are based on the 2022 revision of the NAICS. To allow for the creation of multiyear tables, industry data in the multiyear files (prior to data year 2023) were recoded to the 2022 Census industry codes. We recommend using caution when comparing data coded using 2022 Census industry codes with data coded using Census industry codes prior to data year 2023. For more information on the Census industry code changes, please visit our website at <a href=\"https://www.census.gov/topics/employment/industry-occupation/guidance/code-lists.html\">https://www.census.gov/topics/employment/industry-occupation/guidance/code-lists.html<\/a>.<br/><br/>When information is missing or inconsistent, the Census Bureau logically assigns an acceptable value using the response to a related question or questions. If a logical assignment is not possible, data are filled using a statistical process called allocation, which uses a similar individual or household to provide a donor value. The \"Allocated\" section is the number of respondents who received an allocated value for a particular subject.<br/><br/>
+  
+-------------------------------------------------------------------------------------------------------------
+
 =============================================================================================================
 Additional Information
 =============================================================================================================
@@ -114,6 +120,6 @@ Contact Information
 
 Suggested Citation
 
-  U.S. Census Bureau. \"Median Income in the Past 12 Months (in 2024 Inflation-Adjusted Dollars)\" American Community Survey, ACS 5-Year Estimates Subject Tables, Table S1903, 2024, https://data.census.gov/table/ACSST5Y2024.S1903?q=S1903: Accessed on June 19, 2026.
+  U.S. Census Bureau. \"Means of Transportation to Work by Selected Characteristics\" American Community Survey, ACS 5-Year Estimates Subject Tables, Table S0802, 2024, https://data.census.gov/table/ACSST5Y2024.S0802?q=S0802: Accessed on May 06, 2026.
   
 -------------------------------------------------------------------------------------------------------------
