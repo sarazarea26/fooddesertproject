@@ -79,6 +79,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1005766,Sprouts Farmers Market 123,22135 S Bulverde Rd,San Antonio,TX,78259,BEXAR,Supermarket,29.646177,-98.425232,58969
 793760,PRUSKIS MARKET,10140 US Highway 87 S,Adkins,TX,78101,BEXAR,Grocery Store,29.371613,-98.287994,59033
 742445,CULEBRA SUPER MEAT MKT 16,14100 Nacogdoches Rd,San Antonio,TX,78247,BEXAR,Supermarket,29.570818,-98.381744,60174
+741917,La Michoacana Meat Market San Antonio 2,4523 Blanco Rd,San Antonio,TX,78212,BEXAR,Other,29.489546,-98.508461,60503
 832084,Progreso LMMM San Antonio 6,2107B Goliad Rd,San Antonio,TX,78223,BEXAR,Supermarket,29.363762,-98.44043,61256
 854008,La Michoacana Meat Market,6059 La Cima,San Antonio,TX,78229,BEXAR,Supermarket,29.48765,-98.590652,63734
 820740,Walmart 3888,11210 POTRANCO RD,SAN ANTONIO,TX,78253,BEXAR,Super Store,29.433678,-98.713554,64688
@@ -136,6 +137,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1074814,Trader Joe's 451,350 E Basse Rd,San Antonio,TX,78209,BEXAR,Supermarket,29.496904,-98.478264,108459
 1091697,Walmart SuperCenter 3057,12550 Leslie Rd,Helotes,TX,78023,BEXAR,Super Store,29.559067,-98.678589,109325
 1604591,Db San Antonio Llc,5500 Babcock Rd,San Antonio,TX,78240,BEXAR,Supermarket,29.516991,-98.597824,110369
+1522302,La Michoacana Meat Market Sa16,411 Historic Old Hwy 90,San Antonio,TX,78237,BEXAR,Other,29.427372,-98.571342,111626
 1522369,Mi Tierra Meat Market,5723 N Foster Rd,San Antonio,TX,78244,BEXAR,Grocery Store,29.478643,-98.361229,111724
 1130194,Sam's Club 4939,3239 Goliad Rd,San Antonio,TX,78223,BEXAR,Super Store,29.3486,-98.429115,112151
 1130196,Walmart Neighborhood Market 5290,1515 S Ellison Dr,San Antonio,TX,78245,BEXAR,Super Store,29.417492,-98.678246,112153
@@ -146,6 +148,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1248870,Vitamin Cottage Natural Food Market U117,1331 NW Military Hwy.,San Antonio,TX,78231,BEXAR,Supermarket,29.541132,-98.527771,114216
 1684971,Rios Supermercado # 102,8030 S Zarzamora St,San Antonio,TX,78224,BEXAR,Grocery Store,29.346277,-98.533455,114433
 1523683,Sprouts Farmers Market 161,9702 State Highway 151,San Antonio,TX,78251,BEXAR,Supermarket,29.446503,-98.680099,115094
+1131719,La Michoacana Meat Market SA11,2341 Nw Military Hwy,San Antonio,TX,78231,BEXAR,Other,29.542683,-98.528435,116740
 1167358,Walmart Neighborhood Market 5224,4226 DE ZAVALA RD,SAN ANTONIO,TX,78249,BEXAR,Super Store,29.575541,-98.566788,118141
 1169787,Trader Joe's 455,403 N Loop 1604 W,San Antonio,TX,78232,BEXAR,Supermarket,29.60886,-98.498276,118162
 1037286,Lowes 127,19860 Somerset Rd,Somerset,TX,78069,BEXAR,Grocery Store,29.225307,-98.658142,118731
@@ -209,6 +212,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1043325,La Michoacana Meat Market San Antonio 7,13107 Nacogdoches Rd,San Antonio,TX,78217,BEXAR,Supermarket,29.560322,-98.394867,191297
 1548055,Tim's Oriental & Seafood Market,7015 Bandera Rd,San Antonio,TX,78238,BEXAR,Grocery Store,29.500975,-98.624184,192775
 349038,Shady Oaks Grocery,24905 US Highway 281 S,San Antonio,TX,78264,BEXAR,Grocery Store,29.155672,-98.483551,193670
+1542609,La Michoacana Meat Market SA14,8260 Marbach Rd,San Antonio,TX,78227,BEXAR,Other,29.416645,-98.652176,196052
 966514,HEB Food Store 613,8219 Marbach Rd,San Antonio,TX,78227,BEXAR,Supermarket,29.420151,-98.652466,197285
 1585987,HEB Food Store #793 793,29388 Interstate 10 W,Boerne,TX,78006,BEXAR,Supermarket,29.73143,-98.678627,206707
 1245046,Culebra Meat Market 8,6403 Walzem Rd,San Antonio,TX,78239,BEXAR,Grocery Store,29.502548,-98.363884,206850
@@ -225,6 +229,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1641514,Shop Your Way San Antonio,13900 Nacogdoches Rd,San Antonio,TX,78217,BEXAR,Grocery Store,29.566555,-98.385231,227000
 1568151,Arlan's Market #17,3614 Pleasanton Rd,San Antonio,TX,78221,BEXAR,Supermarket,29.34317,-98.502876,231212
 1570599,Ashiana Super Market,4139 Gardendale St,San Antonio,TX,78229,BEXAR,Other,29.522518,-98.56675,231324
+1568139,Arlan's Market #16,340 Historic Old Hwy 90,San Antonio,TX,78237,BEXAR,Other,29.428377,-98.566772,231874
 1591643,Porter Poultry & Egg Co ,5475 W US Highway 90,San Antonio,TX,78227,BEXAR,Grocery Store,29.408213,-98.598831,235100
 1603996,Toro Texano Meat Market 1,7098 Bandera Rd,Leon Valley,TX,78238,BEXAR,Grocery Store,29.500971,-98.625916,239197
 1613780,Mission Marquee Farmers And Artisan Market,3100 Roosevelt Ave,San Antonio,TX,78214,BEXAR,Farmers and Markets,29.364794,-98.477959,239319
