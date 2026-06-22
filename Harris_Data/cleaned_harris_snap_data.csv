@@ -81,6 +81,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 360081,Lewis Food Town 11,5367 Antoine Dr,Houston,TX,77091,HARRIS,Supermarket,29.842367,-95.474419,15993
 417981,RANDALLS 1061,3131 W Holcombe Blvd,Houston,TX,77025,HARRIS,Supermarket,29.704868,-95.425949,16021
 374378,HEB 540,3111 Woodridge Dr,Houston,TX,77087,HARRIS,Supermarket,29.696041,-95.297806,16509
+442872,Casa Del Pueblo Meat Market 3,13572 State Highway 249 # B,Houston,TX,77086,HARRIS,Other,29.918495,-95.491592,16750
 405019,Lewis Food Town 201,5 Uvalde Rd,Houston,TX,77015,HARRIS,Supermarket,29.805435,-95.181107,17183
 403942,MERCADO LA MEXICANA,4910 Aldine Mail Rd,Houston,TX,77039,HARRIS,Grocery Store,29.902813,-95.318474,17333
 501321,KROGER  312,1035 N Shepherd Dr,Houston,TX,77008,HARRIS,Super Store,29.789328,-95.41098,17438
@@ -118,6 +119,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 365720,Lewis Food Town 206,1455 Wilcrest Dr,Houston,TX,77042,HARRIS,Supermarket,29.748671,-95.57196,24810
 450556,Whole Foods Market 10115,2955 Kirby Dr,Houston,TX,77098,HARRIS,Super Store,29.738722,-95.418678,25201
 450843,Walmart Supercenter 849,155 Louetta Xing,Spring,TX,77373,HARRIS,Super Store,30.063526,-95.430763,25266
+631565,PANCHO'S MEAT MARKET #3,7001 Long Dr,Houston,TX,77087,HARRIS,Other,29.685268,-95.305435,25276
 446328,HEB 541,10100 Beechnut St,Houston,TX,77072,HARRIS,Supermarket,29.689768,-95.559097,25519
 368734,Lewis Food Town 10,901 Richey St,Pasadena,TX,77506,HARRIS,Supermarket,29.69799,-95.219711,25924
 420158,TARGET STORE T 1336,8500 S Main St,Houston,TX,77025,HARRIS,Super Store,29.69071,-95.417442,26102
@@ -197,6 +199,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 624729,GLORY OF GOD AFR CARR DISC FD/STR,12719 Bissonnet St,Houston,TX,77099,HARRIS,Grocery Store,29.67745,-95.603645,42201
 644912,PHOENICIA SPECIALTY FOODS,12141 Westheimer Rd,Houston,TX,77077,HARRIS,Super Store,29.73476,-95.595085,43009
 586146,Lewis Food Town 202,7426 Airline Dr,Houston,TX,77076,HARRIS,Supermarket,29.869532,-95.384811,43092
+585720,La Michoacana Meat Market 21,11830 Airline Dr,Houston,TX,77037,HARRIS,Other,29.92823,-95.409615,43564
 661248,Kroger 190,9475 Fm 1960 Bypass Rd W,Humble,TX,77338,HARRIS,Super Store,30.005009,-95.283455,43735
 764457,G & J African Market,12800 Veterans Memorial Dr,Houston,TX,77014,HARRIS,Other,29.97439,-95.487198,43796
 641337,Walmart 2066,2727 DUNVALE RD,HOUSTON,TX,77063,HARRIS,Super Store,29.735531,-95.511711,44487
@@ -247,6 +250,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 655456,Walmart Supercenter 2724,1107 Shaver St,Pasadena,TX,77506,HARRIS,Super Store,29.694101,-95.211372,52138
 654077,La Michoacana Meat Market 09,7502 Fulton St,Houston,TX,77022,HARRIS,Grocery Store,29.82947,-95.376099,52290
 653443,KROGER  313,10306 S Post Oak Rd,Houston,TX,77035,HARRIS,Super Store,29.66959,-95.462494,52361
+658192,LA MORELIANA 2,10769 W Bellfort St,Houston,TX,77099,HARRIS,Other,29.654482,-95.570045,52592
 655099,RANDALLS 3067,5161 San Felipe St,Houston,TX,77056,HARRIS,Supermarket,29.748827,-95.465874,52664
 783284,TARGET STORE T 1894,25901 Highway 290,Cypress,TX,77429,HARRIS,Super Store,29.969208,-95.696236,53377
 783285,TARGET STORE T 1904,14302 Fm 2920 Rd,Tomball,TX,77377,HARRIS,Super Store,30.089418,-95.639465,53378
@@ -288,6 +292,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 750329,EL TAQUITO MEAT MARKET,1020 Fm 1960 Rd W,Houston,TX,77090,HARRIS,Grocery Store,30.016148,-95.446312,65568
 750468,FRUITLANDIA 2,7235 Hillcroft St,Houston,TX,77081,HARRIS,Grocery Store,29.700741,-95.492828,65602
 1634063,Aryana Halal Market 1,9347 Richmond Ave,Houston,TX,77063,HARRIS,Grocery Store,29.728575,-95.52903,65955
+1287299,Pancho's Meat Market 4 4,8564 Long Point Rd,Houston,TX,77055,HARRIS,Other,29.80308,-95.499657,66105
 1288489,The Carniceria 1,3814 Center St,Deer Park,TX,77536,HARRIS,Grocery Store,29.67695,-95.123329,67454
 856794,Panchos Meat Market 5,102 E Edgebrook Dr,Houston,TX,77034,HARRIS,Grocery Store,29.649185,-95.218513,67715
 901194,LA MICHOACANA MEAT MARKET 52,4001 W Fuqua St,Houston,TX,77045,HARRIS,Super Store,29.613291,-95.437279,67752
@@ -486,6 +491,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1187038,Sprouts Farmers Market 136,195 Yale St,Houston,TX,77007,HARRIS,Supermarket,29.77478,-95.398705,132964
 1393056,HEB Food Store 745,4955 Beechnut St,Houston,TX,77096,HARRIS,Supermarket,29.689091,-95.463501,133153
 1416648,Betos Meat Market / Grocery Store,26926 Fm 2100 Rd,Huffman,TX,77336,HARRIS,Grocery Store,30.062693,-95.089684,133172
+1367390,La Michoacana Meat Market H61 61,2455 Eldridge Pkwy,Houston,TX,77077,HARRIS,Other,29.736467,-95.623657,133396
 1527384,Huy Market,13703 Fm 529,Houston,TX,77041,HARRIS,Grocery Store,29.879414,-95.616501,133529
 1325165,HEB Food Store 738,5106 Bissonnet St,Bellaire,TX,77401,HARRIS,Supermarket,29.7073,-95.468697,134151
 1324703,Al Eman Halal Meat And International Groceries,9001 Louetta Rd,Spring,TX,77379,HARRIS,Grocery Store,30.007475,-95.548248,134157
@@ -559,6 +565,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1386148,Sellers Bros Inc.,8011 Elvera St,Houston,TX,77012,HARRIS,Super Store,29.708813,-95.2799,149522
 1385649,La Michoacana Supermarket 76,3201 Spencer Hwy,Pasadena,TX,77504,HARRIS,Grocery Store,29.665018,-95.195145,149571
 1264297,Afghan Halal Market,6409 Hillcroft St,Houston,TX,77081,HARRIS,Grocery Store,29.713104,-95.494736,149769
+1266191,Lmmm Houston 70 Ltd. 70,6845 Fry Rd,Houston,TX,77449,HARRIS,Other,29.801592,-95.720474,150110
 1266373,Recipe For Success' Hope Farms,10401 Scott St,Houston,TX,77051,HARRIS,Farmers and Markets,29.64649,-95.368332,150319
 1266798,Fiesta Mart 201,2877 S Richey St,Houston,TX,77017,HARRIS,Super Store,29.676916,-95.23156,150364
 1267412,Grocery Services Inc 35,8950 Will Clayton Pkwy,Humble,TX,77338,HARRIS,Grocery Store,29.979118,-95.248177,150749
@@ -619,6 +626,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1480845,La Michoacana Supermarket #21,2312 N Alexander Dr,Baytown,TX,77520,HARRIS,Supermarket,29.746334,-94.948448,173335
 1689846,Sprouts Farmers Market 178,4303 Kingwood Dr,Kingwood,TX,77339,HARRIS,Supermarket,30.050028,-95.186584,173536
 1498193,Havilah African Food Market,19540 Clay Rd,Katy,TX,77449,HARRIS,Grocery Store,29.831568,-95.710342,174007
+1481123,Lmmm Houston 83 Ltd.,105 Kennings Rd,Crosby,TX,77532,HARRIS,Other,29.889721,-95.062386,174139
 1481549,HEB Food Store 769,18611 Eastfield Dr.,Webster,TX,77598,HARRIS,Supermarket,29.547537,-95.146614,174733
 1492382,Urban Harvest Mobile Market ,3201 Canal Street,Houston,TX,77003,HARRIS,Farmers and Markets,29.753475,-95.339172,175302
 1483513,Hisway African Grocery Store N/A,3507 Paintbrush Dawn Ct,Katy,TX,77493,HARRIS,Other,29.82268,-95.778107,175416
@@ -659,6 +667,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1541907,Bud's House Of Meat,6730 Cullen Blvd,Houston,TX,77021,HARRIS,Super Store,29.689917,-95.353836,193079
 1511619,Muhajir Grocery Store,5880 Ranchester Dr,Houston,TX,77036,HARRIS,Grocery Store,29.714535,-95.548698,193902
 1511631,Los Pipiles Bakery & Cafe,12033 Veterans Memorial Dr,Houston,TX,77067,HARRIS,Grocery Store,29.958858,-95.47715,193918
+1062646,La Michoacana Meat Market 58,9223 Stella Link Rd,Houston,TX,77025,HARRIS,Other,29.681583,-95.439156,194320
 1694076,GUERRERO MEAT MARKET,1940 Fry Rd,Houston,TX,77084,HARRIS,Grocery Store,29.794945,-95.718605,195030
 1474432,Savoy Supermarket,11246 S Wilcrest Dr,Houston,TX,77099,HARRIS,Other,29.658033,-95.571342,195754
 941931,El Ahorro Supermarket 15,6910 Capitol St,Houston,TX,77011,HARRIS,Supermarket,29.734875,-95.304329,197865
@@ -700,6 +709,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1530494,Amigo Food Mart #3,6905 Bissonnet St,Houston,TX,77074,HARRIS,Grocery Store,29.688787,-95.504074,211762
 1530325,Tienda Rio Lempa #1 1,953 Federal Rd,Houston,TX,77015,HARRIS,Grocery Store,29.772476,-95.21447,211952
 1579025,Ibom Mart LLC ,9710 S Kirkwood Rd,Houston,TX,77099,HARRIS,Grocery Store,29.673149,-95.587852,212107
+1236957,Vishala Grocery 3,13314 Westheimer Rd,Houston,TX,77077,HARRIS,Other,29.73597,-95.624557,212173
 1538217,Gordon Restaurant Market MP217,4519 Griggs Rd,Houston,TX,77021,HARRIS,Supermarket,29.702135,-95.347816,212435
 840532,EL AHORRO SUPERMARKET 4,3107 Blalock Rd,Houston,TX,77080,HARRIS,Supermarket,29.82271,-95.52346,212962
 824870,Food City,5230 Aldine Mail Rd,Houston,TX,77039,HARRIS,Super Store,29.90284,-95.313103,213582
@@ -723,6 +733,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1027199,New Katy Halal Meat And Grocries,2002 Fry Rd,Houston,TX,77084,HARRIS,Grocery Store,29.796165,-95.719002,218087
 1597694,Los Reyes De Cuba,12913 Westheimer Rd,Houston,TX,77077,HARRIS,Grocery Store,29.735312,-95.614517,218796
 838029,El Ahorro Supermarket 6,10341 Palestine St,Houston,TX,77029,HARRIS,Supermarket,29.766708,-95.245674,219146
+1534301,Vishala Grocery #5,17926 Highway 3,Webster,TX,77598,HARRIS,Other,29.536612,-95.118095,219415
 1533493,Sangam Supermarket,17689 State Highway 249,Houston,TX,77064,HARRIS,Other,29.958263,-95.545357,219643
 1124854,Teloloapan Meat Market #9 ,9908 Beechnut St,Houston,TX,77036,HARRIS,Grocery Store,29.689308,-95.555283,220294
 1292838,Matamoros Meat Market 2,4953 Polk St,Houston,TX,77023,HARRIS,Grocery Store,29.736217,-95.326736,220594
@@ -757,6 +768,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1563262,Global Halal Supermarket Llc,5604 Hillcroft St,Houston,TX,77036,HARRIS,Grocery Store,29.72172,-95.501633,229049
 1560005,Market Square Park Farmers Market,301 Milam St,Houston,TX,77002,HARRIS,Farmers and Markets,29.762627,-95.36219,229963
 1570872,99 Ranch Market 109,12230 Westheimer Rd.,Houston,TX,77077,HARRIS,Super Store,29.737198,-95.594917,230222
+1565715,La Michoacana Meat Market H89,9275 Richmond Ave,Houston,TX,77063,HARRIS,Other,29.728319,-95.526993,230735
 1564101,Dong Khanh Market 1,16215 Clay Rd,Houston,TX,77084,HARRIS,Grocery Store,29.834534,-95.649536,231091
 1568026,Arlan's Market #8 ,6500 Fm 2100 Rd,Crosby,TX,77532,HARRIS,Supermarket,29.921066,-95.06913,231384
 1566031,Tinda Filipino Store,3810 N Mason Rd,Katy,TX,77449,HARRIS,Grocery Store,29.830317,-95.754135,231782
@@ -766,6 +778,8 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1566130,Noah's African Market,21211 Fm 529 Rd,Cypress,TX,77433,HARRIS,Grocery Store,29.878836,-95.73719,232832
 1510658,Cuban Bakery La Exquisita Llc ,904 Cypress Creek Pkwy,Houston,TX,77090,HARRIS,Grocery Store,30.017218,-95.444427,233202
 1595035,Prime Bazaar,8403 Almeda Rd,Houston,TX,77054,HARRIS,Grocery Store,29.685005,-95.39122,233298
+1596328,Casa Del Pueblo Meat Market #10 10,544 W Nasa Pkwy,Webster,TX,77598,HARRIS,Other,29.534054,-95.123169,234514
+1680692,Vishala Grocery 7,5815 Hillcroft St,Houston,TX,77036,HARRIS,Other,29.719213,-95.500443,234554
 1112207,Tien Hung 01,8200 Wilcrest Dr,Houston,TX,77072,HARRIS,Grocery Store,29.689552,-95.570702,234600
 1596122,Neas Market,9224 Fm 1960 Rd W,Houston,TX,77070,HARRIS,Grocery Store,29.947762,-95.563225,235225
 1599208,La Munecatracha,8700 Long Point Rd,Houston,TX,77055,HARRIS,Grocery Store,29.803638,-95.50296,235229
@@ -787,6 +801,7 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1619295,HEB Food Store 806,20017 Bridgeland Creek Pkwy,Cypress,TX,77433,HARRIS,Supermarket,29.93844,-95.753418,241300
 1620742,La Michoacana Supermarket #33,3451 W Grand Parkway,Katy,TX,77449,HARRIS,Supermarket,29.822918,-95.767662,241428
 1674426,Tan Binh Market 1,11698 Bellaire Blvd,Houston,TX,77072,HARRIS,Grocery Store,29.704933,-95.584076,241895
+1622269,Vishala Grocery 9,11886 Wilcrest Dr,Houston,TX,77031,HARRIS,Other,29.649069,-95.567139,242334
 1620968,Saigon Asian Market,14650 Fm 529 Rd,Houston,TX,77095,HARRIS,Grocery Store,29.879852,-95.628288,242491
 1617131,K&V Bulgarian Market,4620 Fm 1960 Rd W,Houston,TX,77069,HARRIS,Grocery Store,29.987165,-95.501778,244891
 1626031,Afghan Dubai,9222 Richmond Ave,Houston,TX,77063,HARRIS,Grocery Store,29.729412,-95.527206,245118
@@ -802,10 +817,13 @@ Record_ID,Store_Name,Store_Street_Address,City,State,Zip_Code,County,Store_Type,
 1408661,African Food Embassy,18311 Clay Rd,Houston,TX,77084,HARRIS,Grocery Store,29.830587,-95.683876,250439
 1666166,Tirupati Balaji Grocers,949 S Mason Rd,Katy,TX,77450,HARRIS,Other,29.768208,-95.750603,251677
 1686987,Enjels Hypermarket & Restaurant,11502 S Wilcrest Dr,Houston,TX,77099,HARRIS,Grocery Store,29.654905,-95.571564,252102
+1670707,Pancho's Meat Market #8 8,9340 Fuqua St,Houston,TX,77075,HARRIS,Other,29.61026,-95.250832,252295
 1677644,Ali Mini Mart 2525 F,2525 Friendswoodlink Rd,Friendswood,TX,77546,HARRIS,Grocery Store,29.530272,-95.163338,252504
+1690352,Siempre Grocery 030,10028A Bissonnet St,Houston,TX,77036,HARRIS,Other,29.675293,-95.554939,253868
 1690344,Siempre Grocery 024,13443 East Fwy,Houston,TX,77015,HARRIS,Grocery Store,29.771654,-95.184868,253946
 1690841,Funkia Pharmacy And Groceries,6211 Barker Cypress Rd,Houston,TX,77084,HARRIS,Grocery Store,29.863253,-95.683395,254176
 1690351,Siempre Grocery 029,10851 Scarsdale Blvd,Houston,TX,77089,HARRIS,Grocery Store,29.584736,-95.215996,254282
+1690358,Siempre Grocery 032,5982 Renwick Dr,Houston,TX,77081,HARRIS,Other,29.717066,-95.485458,254389
 1589168,Crestmont Park Supermarket,11404 Martin Luther King Blvd,Houston,TX,77048,HARRIS,Grocery Store,29.636023,-95.340057,254509
 1690368,Siempre Grocery 033,3634 Garth Rd,Baytown,TX,77521,HARRIS,Grocery Store,29.762093,-94.976837,254617
 1442313,La Michoacana Meat Market #17,1002 Boundary St,Houston,TX,77009,HARRIS,Grocery Store,29.784374,-95.36145,254638
