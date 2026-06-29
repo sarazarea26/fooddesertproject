@@ -1,3 +1,4 @@
 OpenStreetMap/
 .ipynb_checkpoints/
 google_maps_api/.env
+.env
