@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "dallasFarmsFinal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "SiteName": "Bonton Farms", "Address": "6915 Bexar St, Dallas, TX 75215" }, "geometry": { "type": "Point", "coordinates": [ -96.753699681658404, 32.734911032720397 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Dallas Half Acre Farm", "Address": "13608 Fernheath Ln, Dallas, TX 75253" }, "geometry": { "type": "Point", "coordinates": [ -96.580581191749999, 32.690723947935197 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Elmwood Farm", "Address": "1014 Nolte Dr, Dallas, TX 75208" }, "geometry": { "type": "Point", "coordinates": [ -96.839911155254399, 32.733854717516799 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Grozilla", "Address": "3921 Martin Luther King Jr Blvd Dallas TX 75210" }, "geometry": { "type": "Point", "coordinates": [ -96.758879743327, 32.776588753799402 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Hatcher Station Training Farm at Restorative Farm", "Address": "4527 Scyene Rd, Dallas, 75210" }, "geometry": { "type": "Point", "coordinates": [ -96.744316563207704, 32.766110543000202 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Joppy Momma's Farm", "Address": "7724 Carbondale St, Dallas, TX 75216" }, "geometry": { "type": "Point", "coordinates": [ -96.750867347556706, 32.716675410855302 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Liberty Street Garden, at The Meadows Foundation", "Address": "510 Liberty St, Dallas, TX 75204" }, "geometry": { "type": "Point", "coordinates": [ -96.785638367385403, 32.789015565121503 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Owenwood Farm & Community Garden", "Address": "1451 John West Rd, Dallas, Texas, 75228" }, "geometry": { "type": "Point", "coordinates": [ -96.692819999365099, 32.8080379212171 ] } },
+{ "type": "Feature", "properties": { "SiteName": "WE over Me Farm, at Paul Quinn College", "Address": "3837 Simpson Stuart Rd, Dallas, Texas, 75241" }, "geometry": { "type": "Point", "coordinates": [ -96.751834834365596, 32.680538944952403 ] } },
+{ "type": "Feature", "properties": { "SiteName": "East Dallas Community Garden", "Address": null }, "geometry": { "type": "Point", "coordinates": [ -96.774069544062996, 32.804338898114104 ] } },
+{ "type": "Feature", "properties": { "SiteName": "Cultivated Chicks", "Address": "1832 Glenn Lane, Glenn Heights, TX 75154" }, "geometry": { "type": "Point", "coordinates": [ -96.8515583, 32.5555583 ] } }
+]
+}
