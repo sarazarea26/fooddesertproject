@@ -1,0 +1,29 @@
+farm_id,farm_name,street_address,city,county,zip_code,latitude ,longitude,profile_url,date_collected
+TX-DAL-001,Joppy Momma's Farm,7724 Carbondale St,"Dallas, TX",Dallas ,75216,32.717073,-96.75-873,https://texaslocalfood.org/tclf-partner/joppy-mommas-farm/,06-29-26
+TX-DAL-002,Restorative Farms - Hatcher Station Training Farm,4500 Todd St,"Dallas, TX",Dallas ,75210,32.766367,-96.744151,https://texaslocalfood.org/tclf-partner/restorative-farms-hatcher-station-training-farm-3721/,06-29-26
+TX-DAL-003,Simply Grace Gardens,"150 E. 1st Street, Lancaster, Texas 75146","Lancaster, TX",Dallas ,75146,32.604257,-96.754928,https://texaslocalfood.org/tclf-partner/simply-grace-gardens/,06-29-26
+TX-DAL-004,Talise Microgreens,17811 Davenport Road,"Dallas, TX",Dallas ,75252,32.991927,-96.794821,https://texaslocalfood.org/tclf-partner/talise-microgreens/,06-29-26
+TX-BEX-001,Behind The Oaks Farm,8522 Greaves Lane,"Schertz, TX",Bexar,78154,29.513039,-98.2512,https://texaslocalfood.org/tclf-partner/behind-the-oaks-farm/,06-29-26
+TX-BEX-003,Rancho Seco,16012 Wheeler Rd,"Atascosa, TX",Bexar,78002,29.276541,-98.747671,https://texaslocalfood.org/tclf-partner/rancho-seco/,06-29-26
+TX-BEX-004,The Betsy Blue Farm,6312 FM471,"San Antonio, TX",Bexar,78253,29.489774,-98.849023,https://texaslocalfood.org/tclf-partner/the-betsy-blue-farm/,06-29-26
+TX-BEX-005,The Wild Farm SATX,410 E Cheryl Dr,"San Antonio, TX",Bexar,78228,29.464758,-98.556131,https://texaslocalfood.org/tclf-partner/the-wild-farm-satx/,06-29-26
+TX-HAR-001,Beauty’s Community Garden,3201 Airline Dr,"Houston, TX",Harris,77022,29.81563378,-95.38301696,https://texaslocalfood.org/tclf-partner/beautys-community-garden/,06-29-26
+TX-HAR-002,Bee2Bee Honey Collective,1613 Branard St,"Houston, TX",Harris,77006,29.73685633,-95.39997583,https://texaslocalfood.org/tclf-partner/bee2bee-honey-collective/,06-29-26
+TX-HAR-005,Mighty Greens,4519 North Main Street,"Houston, TX",Harris,77009,29.79651445,-95.38075846,https://texaslocalfood.org/tclf-partner/mighty-greens/,06-29-26
+TX-HAR-007,Shamba Ya Amani,8401 Dairy View Lane,"Houston, TX",Harris,77072,29.68661383,-95.60008325,https://texaslocalfood.org/tclf-partner/shamba-ya-amani/,06-29-26
+"TX-HAR-008
+",Sherie’s Gardens and More,25815 Water Ridge Drive,"Huffman, TX",Harris,77336,30.067806,-95.10807759,https://texaslocalfood.org/tclf-partner/sherie/,06-29-26
+TX-TRA-004,Boggy Creek Farm,3414 Lyons Road,"Austin, TX",Travis,78702,30.26266184,-97.70119142,https://texaslocalfood.org/tclf-partner/boggy-creek-farm/,06-29-26
+TX-TRA-005,Brown Farmer LLC,18136 Gallant St," Manor, TX",Travis,78653,30.35785274,-97.52964681,https://texaslocalfood.org/tclf-partner/brown-farmer-llc/,06-29-26
+TX-TRA-006,ChefPax Microgreens,9904 Dalliance Ln," Manor, TX",Travis,78653,30.30152046,-97.55177177,https://texaslocalfood.org/tclf-partner/chefpax-microgreens/,06-29-26
+TX-TRA-007,Coyote Creek Organic Feed Mill and Farm,13817 Klaus Ln," Elgin, TX ",Travis,78621,30.38276706,-97.42779808,https://texaslocalfood.org/tclf-partner/coyote-creek-organic-feed-mill-and-farm/,06-29-26
+TX-TRA-008,Doonesberry Farm,1306 Doonesbury Dr,"Austin, TX",Travis,78758,30.4107332,-97.68957449,https://texaslocalfood.org/tclf-partner/doonesberry-farm/,06-29-26
+TX-TRA-010,Este Garden,E 22nd St,"Austin, TX",Travis,78722,30.28399592,-97.71737901,https://texaslocalfood.org/tclf-partner/este-garden/,06-29-26
+TX-TRA-012,Green Gate Farms,8310 Canoga Ave,"Austin, TX",Travis,78724,30.28474776,-97.63408381,https://texaslocalfood.org/tclf-partner/green-gate-farms/,06-29-26
+TX-TRA-013,Joe’s Microgreens,7206 Shelton Rd,"Austin, TX",Travis,78725,30.26166335,-97.66616856,https://texaslocalfood.org/tclf-partner/joes-microgreens/,06-29-26
+TX-TRA-014,Munkebo Farm,20826 Blake Manor Rd,"Manor, TX",Travis,78653,30.26393488,-97.4814804,https://texaslocalfood.org/tclf-partner/munkebo-farm/,06-29-26
+TX-TRA-016,Two Hives Honey,7617 Nez Perce Trce," Manor, TX",Travis,78653,30.28448546,-97.56908135,https://texaslocalfood.org/tclf-partner/two-hives-honey/,06-29-26
+TX-TRA-017,World’s Best Eggs,13817 Klaus Ln,"Elgin, TX",Travis,78621,30.36416323,-97.42788142,https://texaslocalfood.org/tclf-partner/worlds-best-eggs/,06-29-26
+TX-TAR-001,Conundrum Farms,5544 Rocky Creek Park Rd,"Crowley, TX ",Tarrant,76036,32.60725901,-97.44618636,https://texaslocalfood.org/tclf-partner/conundrum-farms/,06-29-26
+TX-TAR-002,Hollow Trace Market Farm,7229 Liberty School Tap Rd ,"Azle, TX ",Tarrant,76020,32.93475949,-97.52026567,https://texaslocalfood.org/tclf-partner/hollow-trace-market-farm/,06-29-26
+TX-TAR-003,Mushroom Street Farms,8001 Valcasi Dr,"Arlington, TX ",Tarrant,76001,32.61960323,-97.15960627,https://texaslocalfood.org/tclf-partner/mushroom-street-farms/,06-29-26
