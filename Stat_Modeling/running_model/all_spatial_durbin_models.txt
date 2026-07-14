@@ -8,7 +8,7 @@ REGRESSION RESULTS
 SUMMARY OF OUTPUT: MAXIMUM LIKELIHOOD SPATIAL LAG WITH SLX - SPATIAL DURBIN MODEL (METHOD = FULL)
 ------------------------------------------------------------------------------------
 Data set            :harris_county
-Weights matrix      : knn_weights
+Weights matrix      :queen_contig
 Dependent Variable  :pct_diabetes                Number of Observations:        1271
 Mean dependent var  :     14.2347                Number of Variables   :          16
 S.D. dependent var  :      4.2284                Degrees of Freedom    :        1255
@@ -67,7 +67,7 @@ REGRESSION RESULTS
 SUMMARY OF OUTPUT: MAXIMUM LIKELIHOOD SPATIAL LAG WITH SLX - SPATIAL DURBIN MODEL (METHOD = FULL)
 ------------------------------------------------------------------------------------
 Data set            :dallas_county
-Weights matrix      : knn_weights
+Weights matrix      :queen_contig
 Dependent Variable  :pct_diabetes                Number of Observations:         659
 Mean dependent var  :     12.9508                Number of Variables   :          16
 S.D. dependent var  :      4.0703                Degrees of Freedom    :         643
@@ -126,51 +126,51 @@ REGRESSION RESULTS
 SUMMARY OF OUTPUT: MAXIMUM LIKELIHOOD SPATIAL LAG WITH SLX - SPATIAL DURBIN MODEL (METHOD = FULL)
 ------------------------------------------------------------------------------------
 Data set            :tarrant_county
-Weights matrix      : knn_weights
-Dependent Variable  :pct_diabetes                Number of Observations:         458
-Mean dependent var  :     10.8961                Number of Variables   :          16
-S.D. dependent var  :     47.4100                Degrees of Freedom    :         442
-Pseudo R-squared    :      0.0419
-Spatial Pseudo R-squared:  0.0390
-Log likelihood      :  -2407.1183
-Sigma-square ML     :   2148.8613                Akaike info criterion :    4846.237
-S.E of regression   :     46.3558                Schwarz criterion     :    4912.266
+Weights matrix      :queen_contig
+Dependent Variable  :pct_diabetes                Number of Observations:         457
+Mean dependent var  :     13.1059                Number of Variables   :          16
+S.D. dependent var  :      3.3380                Degrees of Freedom    :         441
+Pseudo R-squared    :      0.7177
+Spatial Pseudo R-squared:  0.5030
+Log likelihood      :   -937.7096
+Sigma-square ML     :      3.1692                Akaike info criterion :    1907.419
+S.E of regression   :      1.7802                Schwarz criterion     :    1973.414
 
 ------------------------------------------------------------------------------------
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
-            CONSTANT       356.26275       134.00204         2.65864         0.00785
-distance_to_nearest_uf         0.00041         0.00091         0.45449         0.64948
-distance_to_nearest_grocery         0.00006         0.00089         0.07176         0.94279
-distance_to_nearest_fm         0.00065         0.00082         0.79509         0.42656
-          log_income       -15.78405         9.38728        -1.68143         0.09268
-      pct_no_vehicle        -0.52194         0.49800        -1.04809         0.29460
-          median_age         0.89591         0.45288         1.97826         0.04790
-         walking_ind        -1.45745         1.60831        -0.90620         0.36483
-W_distance_to_nearest_uf        -0.00093         0.00098        -0.94718         0.34355
-W_distance_to_nearest_grocery         0.00053         0.00146         0.36293         0.71666
-W_distance_to_nearest_fm        -0.00053         0.00086        -0.61434         0.53899
-        W_log_income       -16.94000        14.57623        -1.16217         0.24517
-    W_pct_no_vehicle         0.25114         1.09895         0.22853         0.81924
-        W_median_age         0.51191         0.86935         0.58884         0.55597
-       W_walking_ind        -0.22600         2.26563        -0.09975         0.92054
-      W_pct_diabetes        -0.07515         0.08356        -0.89934         0.36847
+            CONSTANT        30.59071         6.28761         4.86524         0.00000
+distance_to_nearest_uf        -0.00007         0.00004        -2.01394         0.04402
+distance_to_nearest_grocery         0.00002         0.00003         0.57718         0.56382
+distance_to_nearest_fm        -0.00002         0.00003        -0.58845         0.55623
+          log_income        -2.23764         0.36209        -6.17973         0.00000
+      pct_no_vehicle        -0.00573         0.01915        -0.29930         0.76471
+          median_age         0.10603         0.01743         6.08157         0.00000
+         walking_ind         0.05643         0.06185         0.91240         0.36156
+W_distance_to_nearest_uf         0.00005         0.00004         1.35901         0.17414
+W_distance_to_nearest_grocery        -0.00005         0.00006        -0.83265         0.40504
+W_distance_to_nearest_fm         0.00001         0.00003         0.43666         0.66236
+        W_log_income        -0.15781         0.61401        -0.25701         0.79717
+    W_pct_no_vehicle        -0.01507         0.04218        -0.35737         0.72082
+        W_median_age        -0.06129         0.03385        -1.81082         0.07017
+       W_walking_ind        -0.11077         0.08710        -1.27181         0.20344
+      W_pct_diabetes         0.72227         0.04082        17.69424         0.00000
 ------------------------------------------------------------------------------------
 
 DIAGNOSTICS FOR SPATIAL DEPENDENCE
 TEST                              DF         VALUE           PROB
-Common Factor Hypothesis Test     7          3.081           0.8774
+Common Factor Hypothesis Test     7         22.733           0.0019
 
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf         0.0004         -0.0009         -0.0005
-distance_to_nearest_grocery         0.0001          0.0005          0.0006
-distance_to_nearest_fm         0.0007         -0.0005          0.0001
-          log_income       -15.7841        -14.6527        -30.4367
-      pct_no_vehicle        -0.5219          0.2701         -0.2519
-          median_age         0.8959          0.4135          1.3094
-         walking_ind        -1.4574         -0.1083         -1.5658
+distance_to_nearest_uf        -0.0001          0.0000         -0.0001
+distance_to_nearest_grocery         0.0000         -0.0001         -0.0001
+distance_to_nearest_fm        -0.0000          0.0000         -0.0000
+          log_income        -2.2376         -6.3873         -8.6250
+      pct_no_vehicle        -0.0057         -0.0692         -0.0749
+          median_age         0.1060          0.0551          0.1611
+         walking_ind         0.0564         -0.2521         -0.1957
 ================================ END OF REPORT =====================================
 
 ____________________________________________________________
@@ -185,51 +185,51 @@ REGRESSION RESULTS
 SUMMARY OF OUTPUT: MAXIMUM LIKELIHOOD SPATIAL LAG WITH SLX - SPATIAL DURBIN MODEL (METHOD = FULL)
 ------------------------------------------------------------------------------------
 Data set            :bexar_county
-Weights matrix      : knn_weights
-Dependent Variable  :pct_diabetes                Number of Observations:         384
-Mean dependent var  :     13.7542                Number of Variables   :          16
-S.D. dependent var  :     52.0397                Degrees of Freedom    :         368
-Pseudo R-squared    :      0.0751
-Spatial Pseudo R-squared:  0.0740
-Log likelihood      :  -2047.0347
-Sigma-square ML     :   2498.2235                Akaike info criterion :    4126.069
-S.E of regression   :     49.9822                Schwarz criterion     :    4189.280
+Weights matrix      :queen_contig
+Dependent Variable  :pct_diabetes                Number of Observations:         383
+Mean dependent var  :     16.3984                Number of Variables   :          16
+S.D. dependent var  :      4.8178                Degrees of Freedom    :         367
+Pseudo R-squared    :      0.7962
+Spatial Pseudo R-squared:  0.6740
+Log likelihood      :   -861.4599
+Sigma-square ML     :      4.7411                Akaike info criterion :    1754.920
+S.E of regression   :      2.1774                Schwarz criterion     :    1818.088
 
 ------------------------------------------------------------------------------------
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
-            CONSTANT       419.90640       185.96121         2.25803         0.02394
-distance_to_nearest_uf        -0.00019         0.00087        -0.21663         0.82849
-distance_to_nearest_grocery        -0.00250         0.00098        -2.55189         0.01071
-distance_to_nearest_fm         0.00064         0.00102         0.63157         0.52767
-          log_income        -4.30906        10.52952        -0.40924         0.68237
-      pct_no_vehicle        -0.15207         0.55434        -0.27432         0.78384
-          median_age        -0.59593         0.48000        -1.24150         0.21442
-         walking_ind         1.24693         1.65849         0.75184         0.45214
-W_distance_to_nearest_uf        -0.00026         0.00099        -0.26000         0.79486
-W_distance_to_nearest_grocery         0.00180         0.00175         1.02920         0.30338
-W_distance_to_nearest_fm        -0.00040         0.00111        -0.35814         0.72024
-        W_log_income       -31.84653        19.01391        -1.67491         0.09395
-    W_pct_no_vehicle        -1.42678         1.08130        -1.31950         0.18700
-        W_median_age         0.67577         1.09305         0.61825         0.53641
-       W_walking_ind         0.02033         2.91260         0.00698         0.99443
-      W_pct_diabetes        -0.05337         0.09203        -0.57994         0.56196
+            CONSTANT        44.98471         9.69975         4.63772         0.00000
+distance_to_nearest_uf         0.00005         0.00004         1.31809         0.18747
+distance_to_nearest_grocery        -0.00004         0.00004        -0.99223         0.32108
+distance_to_nearest_fm         0.00000         0.00004         0.05089         0.95941
+          log_income        -3.83740         0.46051        -8.33288         0.00000
+      pct_no_vehicle         0.04014         0.02415         1.66219         0.09647
+          median_age         0.21848         0.02102        10.39583         0.00000
+         walking_ind         0.01193         0.07223         0.16522         0.86877
+W_distance_to_nearest_uf        -0.00005         0.00004        -1.04617         0.29548
+W_distance_to_nearest_grocery         0.00009         0.00008         1.20510         0.22817
+W_distance_to_nearest_fm        -0.00000         0.00005        -0.09526         0.92411
+        W_log_income        -0.18165         0.92713        -0.19593         0.84467
+    W_pct_no_vehicle        -0.08203         0.04715        -1.73980         0.08189
+        W_median_age        -0.09646         0.04960        -1.94470         0.05181
+       W_walking_ind        -0.00625         0.12678        -0.04928         0.96070
+      W_pct_diabetes         0.70887         0.04664        15.19767         0.00000
 ------------------------------------------------------------------------------------
 
 DIAGNOSTICS FOR SPATIAL DEPENDENCE
 TEST                              DF         VALUE           PROB
-Common Factor Hypothesis Test     7          5.545           0.5937
+Common Factor Hypothesis Test     7         22.252           0.0023
 
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf        -0.0002         -0.0002         -0.0004
-distance_to_nearest_grocery        -0.0025          0.0018         -0.0007
-distance_to_nearest_fm         0.0006         -0.0004          0.0002
-          log_income        -4.3091        -30.0146        -34.3236
-      pct_no_vehicle        -0.1521         -1.3468         -1.4989
-          median_age        -0.5959          0.6717          0.0758
-         walking_ind         1.2469         -0.0439          1.2030
+distance_to_nearest_uf         0.0001         -0.0000          0.0000
+distance_to_nearest_grocery        -0.0000          0.0002          0.0002
+distance_to_nearest_fm         0.0000         -0.0000         -0.0000
+          log_income        -3.8374         -9.9677        -13.8051
+      pct_no_vehicle         0.0401         -0.1840         -0.1439
+          median_age         0.2185          0.2006          0.4191
+         walking_ind         0.0119          0.0076          0.0195
 ================================ END OF REPORT =====================================
 
 ____________________________________________________________
@@ -244,7 +244,7 @@ REGRESSION RESULTS
 SUMMARY OF OUTPUT: MAXIMUM LIKELIHOOD SPATIAL LAG WITH SLX - SPATIAL DURBIN MODEL (METHOD = FULL)
 ------------------------------------------------------------------------------------
 Data set            :travis_county
-Weights matrix      : knn_weights
+Weights matrix      :queen_contig
 Dependent Variable  :pct_diabetes                Number of Observations:         305
 Mean dependent var  :      9.9816                Number of Variables   :          16
 S.D. dependent var  :      3.0490                Degrees of Freedom    :         289
