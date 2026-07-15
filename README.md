@@ -35,4 +35,4 @@ spatial regression model, and multilevel model if all three are run. Lets review
 specifications directly
 
 ## Urban Farm Data Folder
-Includes all the code and datasets collected when collecting urban farm data. Because this process was complicated and included many components we put all of it in its own folder.
+Contains all datasets, scripts, and documentation related to the collection and processing of urban farm data
