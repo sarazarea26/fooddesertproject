@@ -1,0 +1,255 @@
+============================================================
+ SECTION: harris_ols
+============================================================
+
+REGRESSION RESULTS
+------------------
+
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+------------------------------------------------------------------------------------
+Data set            :harris_county
+Weights matrix      :        None
+Dependent Variable  :pct_diabetes                Number of Observations:        1271
+Mean dependent var  :     14.2347                Number of Variables   :           8
+S.D. dependent var  :      4.2284                Degrees of Freedom    :        1263
+R-squared           :      0.5355
+Adjusted R-squared  :      0.5330
+Sum squared residual:     10546.1                F-statistic           :    208.0473
+Sigma-square        :       8.350                Prob(F-statistic)     :  3.015e-205
+S.E. of regression  :       2.890                Log likelihood        :   -3148.161
+Sigma-square ML     :       8.298                Akaike info criterion :    6312.321
+S.E of regression ML:      2.8805                Schwarz criterion     :    6353.502
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT        85.28231         2.44163        34.92837         0.00000
+distance_to_nearest_uf        -0.00004         0.00001        -7.55396         0.00000
+distance_to_nearest_grocery        -0.00004         0.00003        -1.27420         0.20283
+distance_to_nearest_fm        -0.00002         0.00000        -3.39469         0.00071
+          log_income        -6.23097         0.23023       -27.06370         0.00000
+      pct_no_vehicle         0.00692         0.01280         0.54035         0.58905
+          median_age         0.14431         0.01430        10.09065         0.00000
+         walking_ind        -0.42861         0.03588       -11.94564         0.00000
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         110.054
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2         19.118           0.0001
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                7        122.640           0.0000
+Koenker-Bassett test              7         96.851           0.0000
+================================ END OF REPORT =====================================
+
+____________________________________________________________
+
+============================================================
+ SECTION: dallas_ols
+============================================================
+
+REGRESSION RESULTS
+------------------
+
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+------------------------------------------------------------------------------------
+Data set            :dallas_county
+Weights matrix      :        None
+Dependent Variable  :pct_diabetes                Number of Observations:         659
+Mean dependent var  :     12.9508                Number of Variables   :           8
+S.D. dependent var  :      4.0703                Degrees of Freedom    :         651
+R-squared           :      0.5045
+Adjusted R-squared  :      0.4992
+Sum squared residual:     5401.62                F-statistic           :     94.6886
+Sigma-square        :       8.297                Prob(F-statistic)     :   5.797e-95
+S.E. of regression  :       2.881                Log likelihood        :   -1628.259
+Sigma-square ML     :       8.197                Akaike info criterion :    3272.519
+S.E of regression ML:      2.8630                Schwarz criterion     :    3308.445
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT        83.25271         3.44890        24.13889         0.00000
+distance_to_nearest_uf        -0.00006         0.00001        -5.45670         0.00000
+distance_to_nearest_grocery         0.00009         0.00005         1.87899         0.06069
+distance_to_nearest_fm         0.00003         0.00001         3.48604         0.00052
+          log_income        -6.47956         0.32286       -20.06895         0.00000
+      pct_no_vehicle        -0.02886         0.02007        -1.43785         0.15096
+          median_age         0.17609         0.01934         9.10292         0.00000
+         walking_ind        -0.26753         0.04925        -5.43161         0.00000
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         114.104
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2          3.769           0.1519
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                7         39.766           0.0000
+Koenker-Bassett test              7         38.719           0.0000
+================================ END OF REPORT =====================================
+
+____________________________________________________________
+
+============================================================
+ SECTION: tarrant_ols
+============================================================
+
+REGRESSION RESULTS
+------------------
+
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+------------------------------------------------------------------------------------
+Data set            :tarrant_county
+Weights matrix      :        None
+Dependent Variable  :pct_diabetes                Number of Observations:         457
+Mean dependent var  :     13.1059                Number of Variables   :           8
+S.D. dependent var  :      3.3380                Degrees of Freedom    :         449
+R-squared           :      0.4469
+Adjusted R-squared  :      0.4383
+Sum squared residual:     2810.13                F-statistic           :     51.8289
+Sigma-square        :       6.259                Prob(F-statistic)     :   5.677e-54
+S.E. of regression  :       2.502                Log likelihood        :   -1063.480
+Sigma-square ML     :       6.149                Akaike info criterion :    2142.959
+S.E of regression ML:      2.4797                Schwarz criterion     :    2175.957
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT        66.55015         4.33442        15.35388         0.00000
+distance_to_nearest_uf        -0.00005         0.00001        -5.74028         0.00000
+distance_to_nearest_grocery        -0.00001         0.00004        -0.20365         0.83872
+distance_to_nearest_fm        -0.00002         0.00001        -3.72488         0.00022
+          log_income        -4.80557         0.39699       -12.10501         0.00000
+      pct_no_vehicle         0.00085         0.02662         0.03176         0.97468
+          median_age         0.10151         0.02268         4.47496         0.00001
+         walking_ind        -0.03949         0.05782        -0.68309         0.49491
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         136.498
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2         33.939           0.0000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                7        143.229           0.0000
+Koenker-Bassett test              7         88.771           0.0000
+================================ END OF REPORT =====================================
+
+____________________________________________________________
+
+============================================================
+ SECTION: bexar_ols
+============================================================
+
+REGRESSION RESULTS
+------------------
+
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+------------------------------------------------------------------------------------
+Data set            :bexar_county
+Weights matrix      :        None
+Dependent Variable  :pct_diabetes                Number of Observations:         383
+Mean dependent var  :     16.3984                Number of Variables   :           8
+S.D. dependent var  :      4.8178                Degrees of Freedom    :         375
+R-squared           :      0.5977
+Adjusted R-squared  :      0.5902
+Sum squared residual:     3567.19                F-statistic           :     79.5844
+Sigma-square        :       9.513                Prob(F-statistic)     :   2.975e-70
+S.E. of regression  :       3.084                Log likelihood        :    -970.785
+Sigma-square ML     :       9.314                Akaike info criterion :    1957.571
+S.E of regression ML:      3.0519                Schwarz criterion     :    1989.155
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT        86.00987         6.18066        13.91597         0.00000
+distance_to_nearest_uf         0.00001         0.00001         0.81373         0.41632
+distance_to_nearest_grocery         0.00009         0.00004         2.05504         0.04057
+distance_to_nearest_fm        -0.00005         0.00001        -4.13239         0.00004
+          log_income        -7.01631         0.56851       -12.34168         0.00000
+      pct_no_vehicle         0.02791         0.03217         0.86767         0.38613
+          median_age         0.25984         0.02815         9.22946         0.00000
+         walking_ind        -0.03802         0.08165        -0.46563         0.64175
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         142.280
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2          8.784           0.0124
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                7         68.855           0.0000
+Koenker-Bassett test              7         55.810           0.0000
+================================ END OF REPORT =====================================
+
+____________________________________________________________
+
+============================================================
+ SECTION: travis_ols
+============================================================
+
+REGRESSION RESULTS
+------------------
+
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES
+------------------------------------------------------------------------------------
+Data set            :travis_county
+Weights matrix      :        None
+Dependent Variable  :pct_diabetes                Number of Observations:         305
+Mean dependent var  :      9.9816                Number of Variables   :           8
+S.D. dependent var  :      3.0490                Degrees of Freedom    :         297
+R-squared           :      0.2350
+Adjusted R-squared  :      0.2170
+Sum squared residual:      2161.9                F-statistic           :     13.0357
+Sigma-square        :       7.279                Prob(F-statistic)     :    1.24e-14
+S.E. of regression  :       2.698                Log likelihood        :    -731.437
+Sigma-square ML     :       7.088                Akaike info criterion :    1478.874
+S.E of regression ML:      2.6624                Schwarz criterion     :    1508.636
+
+------------------------------------------------------------------------------------
+            Variable     Coefficient       Std.Error     t-Statistic     Probability
+------------------------------------------------------------------------------------
+            CONSTANT        24.15231         4.87618         4.95313         0.00000
+distance_to_nearest_uf        -0.00001         0.00001        -1.64056         0.10195
+distance_to_nearest_grocery        -0.00003         0.00004        -0.68694         0.49266
+distance_to_nearest_fm         0.00001         0.00001         0.91971         0.35847
+          log_income        -1.31011         0.44689        -2.93161         0.00363
+      pct_no_vehicle         0.04909         0.02651         1.85155         0.06508
+          median_age         0.13315         0.02762         4.82095         0.00000
+         walking_ind        -0.36832         0.05930        -6.21143         0.00000
+------------------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+MULTICOLLINEARITY CONDITION NUMBER         113.776
+
+TEST ON NORMALITY OF ERRORS
+TEST                             DF        VALUE           PROB
+Jarque-Bera                       2        140.685           0.0000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY
+RANDOM COEFFICIENTS
+TEST                             DF        VALUE           PROB
+Breusch-Pagan test                7        194.567           0.0000
+Koenker-Bassett test              7         77.243           0.0000
+================================ END OF REPORT =====================================
+
+____________________________________________________________
+
