@@ -26,9 +26,6 @@ STATISTICAL/ANALYTICAL FIGURES
 #### Figure 5: 
 Scatter plots showing bivariate relationships between distance to nearest urban farm and composite health score by census tract, faceted by metro. This gives readers an intuitive look at the correlational findings before the regression results.
 
-#### Figure 6: 
-Regression coefficient plot (dot-and-whisker) showing predictor coefficients and confidence intervals from the primary model, whether OLS, spatial lag, or multilevel. Clean and readable for a mixed methods/public health audience.
-
 TABLES
 
 #### Table 1: 
