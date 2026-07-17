@@ -39,3 +39,12 @@ Regression results table showing the full model, with a column each for OLS base
 
 ## Urban Farm Data Folder
 Contains all datasets, scripts, and documentation related to the collection and processing of urban farm data
+
+## Contributions
+
+### Brandon Kung
+- [Web-scraped](urbanFarmData/local_harvest_geocoded/scrapingLocalHarvest.ipynb) / gathered farm site data from LocalHarvest, Dallas urban farm maps, USDA/Texas Center for Local Food Directories, other county local org lists
+- Assisted filtering of farm sites using county shapefile joins/manual web-based verification based on scope criteria (grows staple produce, generates revenue from sales)
+- [Merged](extra_figures/modeling_data/assembling_df.ipynb) final urban farm site dataset, health outcomes and walkability index from CDC Environmental Justice Index, and American Community Survey (ACS) control variables
+- [Generated](final_figures/Table_2/exploratory_visualization.ipynb) several pre-model figures, including summary statistics, correlation matrices, bivariate scatterplots, Local Indicators of Spatial Autocorrelation (LISA) maps (filesize too large for repository) 
+- [Ran spatial regression models](final_figures/Table_3/specifying_model.ipynb), testing different specifications and fitting final Spatial Durbin Models
