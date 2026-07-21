@@ -48,3 +48,10 @@ Contains all datasets, scripts, and documentation related to the collection and 
 - [Merged](extra_figures/modeling_data/assembling_df.ipynb) final urban farm site dataset, health outcomes and walkability index from CDC Environmental Justice Index, and American Community Survey (ACS) control variables
 - [Generated](final_figures/Table_2/exploratory_visualization.ipynb) several pre-model figures, including summary statistics, correlation matrices, bivariate scatterplots, Local Indicators of Spatial Association [(LISA)](https://smu.box.com/s/k42bbdqho5serps2vbg5xjjrtbmz1ta1) maps
 - [Ran spatial regression models](final_figures/Table_3/specifying_model.ipynb), testing different specifications and fitting final Spatial Durbin Models
+
+### Charlotte Lin
+- [Sourced and cleaned](datasets/cleaned/snap_data) grocery store location data from the USDA SNAP-Eligible Retailer Locator, manually verifying ambiguous retailers to ensure the final dataset accurately represented produce access.
+- [Generated](datasets/cleaned/health_income_composite_score) census tract–level composite health risk and income/mobility indices by combining CDC diabetes and coronary heart disease prevalence with ACS median income and vehicle access data.
+- [Collected, merged, and geocoded](urbanFarmData) urban farm location data from the [Google Places API](urbanFarmData/google_maps_api) and [OpenStreetMap](urbanFarmData/osm_data) using Python, producing a cleaned dataset for spatial analysis and mapping.
+- [Created](final_figures) three core project figures in Python, including [grocery store and urban farm distribution maps](final_figures/Figure_2), [health risk choropleths](final_figures/Figure_3), and [bivariate maps](final_figures/Figure_5)
+- [Ran](final_figures/Global_Moran) Global Moran's I analyses to assess spatial autocorrelation in diabetes prevalence and distance to urban farms.
