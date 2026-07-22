@@ -22,16 +22,16 @@ S.E of regression   :      1.9226                Schwarz criterion     :    5504
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
             CONSTANT        35.96669         3.80057         9.46350         0.00000
-distance_to_nearest_uf        -0.00002         0.00003        -0.71417         0.47512
-distance_to_nearest_grocery        -0.00003         0.00003        -1.01121         0.31192
-distance_to_nearest_fm        -0.00004         0.00003        -1.42583         0.15392
+distance_to_nearest_uf        -0.11208         0.15694        -0.71417         0.47512
+distance_to_nearest_grocery        -0.16250         0.16070        -1.01121         0.31192
+distance_to_nearest_fm        -0.22529         0.15801        -1.42583         0.15392
           log_income        -2.45307         0.20096       -12.20668         0.00000
       pct_no_vehicle         0.04818         0.00913         5.27456         0.00000
           median_age         0.10413         0.01023        10.17790         0.00000
          walking_ind         0.02962         0.03914         0.75683         0.44915
-W_distance_to_nearest_uf         0.00001         0.00003         0.26645         0.78989
-W_distance_to_nearest_grocery         0.00005         0.00005         1.00662         0.31412
-W_distance_to_nearest_fm         0.00004         0.00003         1.26147         0.20714
+W_distance_to_nearest_uf         0.04379         0.16433         0.26645         0.78989
+W_distance_to_nearest_grocery         0.27109         0.26931         1.00662         0.31412
+W_distance_to_nearest_fm         0.20561         0.16299         1.26147         0.20714
         W_log_income        -0.48337         0.36635        -1.31943         0.18703
     W_pct_no_vehicle        -0.05954         0.01869        -3.18590         0.00144
         W_median_age        -0.01832         0.02078        -0.88186         0.37785
@@ -46,9 +46,9 @@ Common Factor Hypothesis Test     7         92.162           0.0000
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf        -0.0000         -0.0000         -0.0000
-distance_to_nearest_grocery        -0.0000          0.0001          0.0001
-distance_to_nearest_fm        -0.0000          0.0000         -0.0000
+distance_to_nearest_uf        -0.1121         -0.1343         -0.2464
+distance_to_nearest_grocery        -0.1625          0.5542          0.3917
+distance_to_nearest_fm        -0.2253          0.1543         -0.0710
           log_income        -2.4531         -8.1401        -10.5932
       pct_no_vehicle         0.0482         -0.0891         -0.0410
           median_age         0.1041          0.2054          0.3096
@@ -81,16 +81,16 @@ S.E of regression   :      2.0568                Schwarz criterion     :    2979
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
             CONSTANT        44.33531         5.83061         7.60389         0.00000
-distance_to_nearest_uf         0.00004         0.00004         0.91766         0.35880
-distance_to_nearest_grocery        -0.00006         0.00004        -1.34212         0.17956
-distance_to_nearest_fm        -0.00003         0.00004        -0.84199         0.39979
+distance_to_nearest_uf         0.19630         0.21391         0.91766         0.35880
+distance_to_nearest_grocery        -0.31555         0.23512        -1.34212         0.17956
+distance_to_nearest_fm        -0.18125         0.21526        -0.84199         0.39979
           log_income        -2.82472         0.31129        -9.07421         0.00000
       pct_no_vehicle         0.00930         0.01494         0.62275         0.53345
           median_age         0.12431         0.01472         8.44667         0.00000
          walking_ind        -0.04312         0.05304        -0.81296         0.41624
-W_distance_to_nearest_uf        -0.00006         0.00004        -1.37362         0.16956
-W_distance_to_nearest_grocery         0.00012         0.00007         1.61138         0.10710
-W_distance_to_nearest_fm         0.00005         0.00004         1.18788         0.23488
+W_distance_to_nearest_uf        -0.31967         0.23272        -1.37362         0.16956
+W_distance_to_nearest_grocery         0.61819         0.38364         1.61138         0.10710
+W_distance_to_nearest_fm         0.27600         0.23235         1.18788         0.23488
         W_log_income        -1.01153         0.56389        -1.79383         0.07284
     W_pct_no_vehicle        -0.04873         0.03119        -1.56226         0.11823
         W_median_age         0.00174         0.03021         0.05765         0.95403
@@ -105,9 +105,9 @@ Common Factor Hypothesis Test     7         57.219           0.0000
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf         0.0000         -0.0001         -0.0001
-distance_to_nearest_grocery        -0.0001          0.0002          0.0002
-distance_to_nearest_fm        -0.0000          0.0001          0.0001
+distance_to_nearest_uf         0.1963         -0.5450         -0.3487
+distance_to_nearest_grocery        -0.3156          1.1709          0.8553
+distance_to_nearest_fm        -0.1812          0.4490          0.2678
           log_income        -2.8247         -8.0174        -10.8421
       pct_no_vehicle         0.0093         -0.1207         -0.1114
           median_age         0.1243          0.2319          0.3563
@@ -140,16 +140,16 @@ S.E of regression   :      1.7802                Schwarz criterion     :    1973
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
             CONSTANT        30.59071         6.28761         4.86524         0.00000
-distance_to_nearest_uf        -0.00007         0.00004        -2.01394         0.04402
-distance_to_nearest_grocery         0.00002         0.00003         0.57718         0.56382
-distance_to_nearest_fm        -0.00002         0.00003        -0.58845         0.55623
+distance_to_nearest_uf        -0.37317         0.18529        -2.01394         0.04402
+distance_to_nearest_grocery         0.10355         0.17941         0.57718         0.56382
+distance_to_nearest_fm        -0.09761         0.16588        -0.58845         0.55623
           log_income        -2.23764         0.36209        -6.17973         0.00000
       pct_no_vehicle        -0.00573         0.01915        -0.29930         0.76471
           median_age         0.10603         0.01743         6.08157         0.00000
          walking_ind         0.05643         0.06185         0.91240         0.36156
-W_distance_to_nearest_uf         0.00005         0.00004         1.35901         0.17414
-W_distance_to_nearest_grocery        -0.00005         0.00006        -0.83265         0.40504
-W_distance_to_nearest_fm         0.00001         0.00003         0.43666         0.66236
+W_distance_to_nearest_uf         0.27128         0.19961         1.35901         0.17414
+W_distance_to_nearest_grocery        -0.24659         0.29616        -0.83265         0.40504
+W_distance_to_nearest_fm         0.07586         0.17373         0.43666         0.66236
         W_log_income        -0.15781         0.61401        -0.25701         0.79717
     W_pct_no_vehicle        -0.01507         0.04218        -0.35737         0.72082
         W_median_age        -0.06129         0.03385        -1.81082         0.07017
@@ -164,9 +164,9 @@ Common Factor Hypothesis Test     7         22.733           0.0019
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf        -0.0001          0.0000         -0.0001
-distance_to_nearest_grocery         0.0000         -0.0001         -0.0001
-distance_to_nearest_fm        -0.0000          0.0000         -0.0000
+distance_to_nearest_uf        -0.3732          0.0063         -0.3669
+distance_to_nearest_grocery         0.1035         -0.6186         -0.5150
+distance_to_nearest_fm        -0.0976          0.0193         -0.0783
           log_income        -2.2376         -6.3873         -8.6250
       pct_no_vehicle        -0.0057         -0.0692         -0.0749
           median_age         0.1060          0.0551          0.1611
@@ -199,16 +199,16 @@ S.E of regression   :      2.1774                Schwarz criterion     :    1818
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
             CONSTANT        44.98471         9.69975         4.63772         0.00000
-distance_to_nearest_uf         0.00005         0.00004         1.31809         0.18747
-distance_to_nearest_grocery        -0.00004         0.00004        -0.99223         0.32108
-distance_to_nearest_fm         0.00000         0.00004         0.05089         0.95941
+distance_to_nearest_uf         0.26466         0.20079         1.31809         0.18747
+distance_to_nearest_grocery        -0.22566         0.22742        -0.99223         0.32108
+distance_to_nearest_fm         0.01193         0.23442         0.05089         0.95941
           log_income        -3.83740         0.46051        -8.33288         0.00000
       pct_no_vehicle         0.04014         0.02415         1.66219         0.09647
           median_age         0.21848         0.02102        10.39583         0.00000
          walking_ind         0.01193         0.07223         0.16522         0.86877
-W_distance_to_nearest_uf        -0.00005         0.00004        -1.04617         0.29548
-W_distance_to_nearest_grocery         0.00009         0.00008         1.20510         0.22817
-W_distance_to_nearest_fm        -0.00000         0.00005        -0.09526         0.92411
+W_distance_to_nearest_uf        -0.23773         0.22724        -1.04617         0.29548
+W_distance_to_nearest_grocery         0.49013         0.40672         1.20510         0.22817
+W_distance_to_nearest_fm        -0.02426         0.25465        -0.09526         0.92411
         W_log_income        -0.18165         0.92713        -0.19593         0.84467
     W_pct_no_vehicle        -0.08203         0.04715        -1.73980         0.08189
         W_median_age        -0.09646         0.04960        -1.94470         0.05181
@@ -223,9 +223,9 @@ Common Factor Hypothesis Test     7         22.252           0.0023
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf         0.0001         -0.0000          0.0000
-distance_to_nearest_grocery        -0.0000          0.0002          0.0002
-distance_to_nearest_fm         0.0000         -0.0000         -0.0000
+distance_to_nearest_uf         0.2647         -0.1722          0.0925
+distance_to_nearest_grocery        -0.2257          1.1341          0.9085
+distance_to_nearest_fm         0.0119         -0.0543         -0.0423
           log_income        -3.8374         -9.9677        -13.8051
       pct_no_vehicle         0.0401         -0.1840         -0.1439
           median_age         0.2185          0.2006          0.4191
@@ -258,16 +258,16 @@ S.E of regression   :      2.1720                Schwarz criterion     :    1454
             Variable     Coefficient       Std.Error     z-Statistic     Probability
 ------------------------------------------------------------------------------------
             CONSTANT        12.88862         7.28872         1.76830         0.07701
-distance_to_nearest_uf        -0.00006         0.00004        -1.54557         0.12221
-distance_to_nearest_grocery         0.00000         0.00004         0.10615         0.91546
-distance_to_nearest_fm         0.00007         0.00004         1.65699         0.09752
+distance_to_nearest_uf        -0.30086         0.19466        -1.54557         0.12221
+distance_to_nearest_grocery         0.02440         0.22986         0.10615         0.91546
+distance_to_nearest_fm         0.35512         0.21432         1.65699         0.09752
           log_income        -0.79147         0.46824        -1.69031         0.09097
       pct_no_vehicle         0.09507         0.02217         4.28826         0.00002
           median_age         0.16410         0.02432         6.74734         0.00000
          walking_ind        -0.07061         0.08802        -0.80220         0.42243
-W_distance_to_nearest_uf         0.00005         0.00004         1.26235         0.20682
-W_distance_to_nearest_grocery        -0.00003         0.00008        -0.45288         0.65064
-W_distance_to_nearest_fm        -0.00006         0.00005        -1.38202         0.16697
+W_distance_to_nearest_uf         0.26074         0.20655         1.26235         0.20682
+W_distance_to_nearest_grocery        -0.18130         0.40033        -0.45288         0.65064
+W_distance_to_nearest_fm        -0.33984         0.24590        -1.38202         0.16697
         W_log_income         0.04790         0.79762         0.06006         0.95211
     W_pct_no_vehicle        -0.14078         0.05425        -2.59501         0.00946
         W_median_age        -0.11587         0.05112        -2.26640         0.02343
@@ -282,9 +282,9 @@ Common Factor Hypothesis Test     7         11.319           0.1253
 SPATIAL DURBIN MODEL IMPACTS
 Impacts computed using the 'simple' method.
             Variable         Direct        Indirect          Total
-distance_to_nearest_uf        -0.0001          0.0000         -0.0000
-distance_to_nearest_grocery         0.0000         -0.0001         -0.0001
-distance_to_nearest_fm         0.0001         -0.0001          0.0000
+distance_to_nearest_uf        -0.3009          0.1928         -0.1081
+distance_to_nearest_grocery         0.0244         -0.4472         -0.4228
+distance_to_nearest_fm         0.3551         -0.3139          0.0412
           log_income        -0.7915         -1.2122         -2.0037
       pct_no_vehicle         0.0951         -0.2183         -0.1232
           median_age         0.1641         -0.0341          0.1300
