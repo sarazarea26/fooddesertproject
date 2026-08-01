@@ -55,3 +55,10 @@ Contains all datasets, scripts, and documentation related to the collection and 
 - [Collected, merged, and geocoded](urbanFarmData) urban farm location data from the [Google Places API](urbanFarmData/google_maps_api) and [OpenStreetMap](urbanFarmData/osm_data) using Python, producing a cleaned dataset for spatial analysis and mapping.
 - [Created](final_figures) three core project figures in Python, including [grocery store and urban farm distribution maps](final_figures/Figure_2), [health risk choropleths](final_figures/Figure_3), and [bivariate maps](final_figures/Figure_5)
 - [Ran](final_figures/Global_Moran) Global Moran's I analyses to assess spatial autocorrelation in diabetes prevalence and distance to urban farms.
+
+### Sara Zarea
+- Created exploratory choropleth and bivariate maps to investigate relationships among urban farms, grocery access, health outcomes, and socioeconomic indicators across five Texas counties.
+- Developed an LLM-assisted workflow to identify, classify, and verify urban farms using publicly available data sources.
+- Constructed population density and urban farm maps to examine potential geographic patterns in food access and resource distribution.
+- Conducted exploratory spatial analyses, including manual Moran's I calculations and spatial correlograms, to assess spatial autocorrelation and guide model selection.
+- Evaluated alternative analytical approaches and documented findings, including methods that were ultimately excluded from the final analysis.
