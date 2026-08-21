@@ -59,6 +59,6 @@ Contains all datasets, scripts, and documentation related to the collection and 
 ### Sara Zarea
 -  Created exploratory choropleth and bivariate maps to investigate relationships among urban farms, grocery access, health outcomes, and socioeconomic indicators across five Texas counties: [Bexar](not_used/heat_maps/bexar_county/bexar_heat_maps.ipynb), [Dallas](not_used/heat_maps/dallas_county/dallas_heat_maps.ipynb), [Harris](not_used/heat_maps/harris_county/harris_county_heat_maps.ipynb), [Tarrant](not_used/heat_maps/tarrant_county/tarrant_heat_maps_updated.ipynb), and [Travis](not_used/heat_maps/travis_county/travis_heat_maps.ipynb).
 - Developed an [LLM-assisted workflow](urbanFarmData/webscraping/updated.ipynb) to identify, classify, and verify urban farms using publicly available data sources.
-- Constructed population density and urban farm maps to examine potential geographic patterns in food access and resource distribution.
+- Constructed [population density and urban farm maps for Harris County](final_figures/Figure_4/combined_mapping.ipynb) to examine potential geographic patterns in food access and resource distribution.
 - Conducted exploratory spatial analyses, including manual [Moran's I calculations and spatial correlograms](final_figures/Figure_4/all_counties_mapping.ipynb), to assess spatial autocorrelation and guide model selection.
 - Evaluated alternative analytical approaches and documented findings, including methods that were ultimately excluded from the final analysis.
