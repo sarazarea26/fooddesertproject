@@ -61,4 +61,4 @@ Contains all datasets, scripts, and documentation related to the collection and 
 - Developed an [LLM-assisted workflow](urbanFarmData/webscraping/updated.ipynb) to identify, classify, and verify urban farms using publicly available data sources.
 - Constructed [population density and urban farm maps for Harris County](final_figures/Figure_4/combined_mapping.ipynb) to examine potential geographic patterns in food access and resource distribution.
 - Conducted exploratory spatial analyses, including manual [Moran's I calculations and spatial correlograms](final_figures/Figure_4/all_counties_mapping.ipynb), to assess spatial autocorrelation and guide model selection.
-- Evaluated alternative analytical approaches and documented findings, including exploratory methods that were ultimately excluded from the final analysis.
+- Evaluated alternative spatial modeling approaches and model specifications to assess spatial dependence and inform selection of the final modeling strategy.
