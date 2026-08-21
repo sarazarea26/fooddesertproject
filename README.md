@@ -58,7 +58,7 @@ Contains all datasets, scripts, and documentation related to the collection and 
 
 ### Sara Zarea
 -  Created exploratory choropleth and bivariate maps to investigate relationships among urban farms, grocery access, health outcomes, and socioeconomic indicators across the five major metropolitan Texas counties: [Bexar](not_used/heat_maps/bexar_county/bexar_heat_maps.ipynb), [Dallas](not_used/heat_maps/dallas_county/dallas_heat_maps.ipynb), [Harris](not_used/heat_maps/harris_county/harris_county_heat_maps.ipynb), [Tarrant](not_used/heat_maps/tarrant_county/tarrant_heat_maps_updated.ipynb), and [Travis](not_used/heat_maps/travis_county/travis_heat_maps.ipynb).
-- Created [binary maps](extra_figures/binary_maps) for each county to visualize geographic overlap between urban farm access and socioeconomic, health, and food-access indicators.
+- Created [binary maps](extra_figures/binary_maps) for each of the five counties to visualize geographic overlap between urban farm access and socioeconomic, health, and food-access indicators.
 - Developed an [LLM-assisted workflow](urbanFarmData/webscraping/updated.ipynb) to identify, classify, and verify urban farms using publicly available data sources.
 - Constructed [population density and urban farm maps for Harris County](final_figures/Figure_4/combined_mapping.ipynb) to examine potential geographic patterns in food access and resource distribution.
 - Conducted exploratory spatial analyses, including manual [Moran's I calculations](extra_figures/modeling_data/global_moran_plots/manual_global_moran.ipynb) and [spatial correlograms across all five counties](extra_figures/modeling_data/global_moran_plots/correlograms_notebook_final.ipynb) to assess spatial autocorrelation and guide model selection.
